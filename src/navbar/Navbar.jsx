@@ -16,7 +16,7 @@ function Navbar() {
                 <a className="nav-link text-white fw-bold text-uppercase fs-6" href="#about">
                     About
                 </a>
-                <a className="nav-link text-white fw-bold text-uppercase fs-6" href="#">
+                <a className="nav-link text-white fw-bold text-uppercase fs-6" href="#contact">
                     Contact
                 </a>
             </div>
