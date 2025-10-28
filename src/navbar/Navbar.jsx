@@ -10,10 +10,10 @@ function Navbar() {
             </a>
 
             <div className="ms-auto d-flex gap-4">
-                <a className="nav-link text-white fw-bold text-uppercase fs-6" href="#">
+                <a className="nav-link text-white fw-bold text-uppercase fs-6" href="#portfolio">
                     Portfolio
                 </a>
-                <a className="nav-link text-white fw-bold text-uppercase fs-6" href="#">
+                <a className="nav-link text-white fw-bold text-uppercase fs-6" href="#about">
                     About
                 </a>
                 <a className="nav-link text-white fw-bold text-uppercase fs-6" href="#">

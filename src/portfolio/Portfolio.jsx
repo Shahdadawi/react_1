@@ -11,7 +11,7 @@ function Portfolio() {
 
     return <>
 
-        <div className="container text-center py-5">
+        <div id="portfolio"className="container text-center py-5">
             <h1 className={` ${style.h1} fw-bold text-uppercase mb-4`}>Portfolio</h1>
 
             <div className="row g-4">
